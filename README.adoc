@@ -1,5 +1,12 @@
 = OCM API Command Line Tools
 
+ifdef::env-github[]
+image:https://img.shields.io/badge/License-Apache%202.0-blue.svg[License,
+link=https://opensource.org/licenses/Apache-2.0]
+image:https://copr.fedorainfracloud.org/coprs/ocm/tools/package/ocm-cli/status_image/last_build.png[RPM,
+link=https://copr.fedorainfracloud.org/coprs/ocm/tools/package/ocm-cli]
+endif::[]
+
 This project contains the `ocm` command line tool that simplifies the use
 of the _OCM_ API available in `api.openshift.com`.
 
